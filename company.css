@@ -250,7 +250,7 @@ div#float_1 {
   left: 38.28vw;
   top: 8.85vw;
   z-index: 105;
-  clip-path: polygon(0% 0%, 100% 0%, 100% 98%, 31.3% 98%, 30% 100%, 28.7% 98%, 0% 98%);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 98%, 29.3% 98%, 27% 100%, 25.7% 98%, 0% 98%);
   position: absolute;
 }
 
