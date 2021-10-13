@@ -1304,6 +1304,10 @@ div#footer-menu ul li a {
   line-height: 1.25;
 }
 
+#s1 .text h1 * {
+  font-size: 3.5vw!important;
+}
+
 #s1 .text h1 .bold {
   font-weight: 700;
   display: block;
