@@ -1297,7 +1297,8 @@ div#footer-menu ul li a {
   margin-left: 0;
 }
 
-#s1 .text h1 {
+#s1 .text h1,
+#s1 .text h1 * {
   font-size: 3.5vw;
   font-weight: 400;
   margin: 1vw 0 0 0;
