@@ -1429,6 +1429,10 @@ div#footer-menu ul li a {
   width: 100%;
 }
 
+#s2 h2 {
+  margin-bottom: 1vw;
+}
+
 #s2 div#float_global {
   width: 26.3vw;
   height: 38.8vw;
