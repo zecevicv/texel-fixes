@@ -1426,6 +1426,7 @@ div#footer-menu ul li a {
 #s2 h2 p {
   color: #2f39ae;
   font-size: 3.54vw!important;
+  width: 100%;
 }
 
 #s2 div#float_global {
