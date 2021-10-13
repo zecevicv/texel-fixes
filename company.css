@@ -1460,7 +1460,7 @@ div#footer-menu ul li a {
 }
 
 .video_frames_container .video_frame.vidframe_1 div {
-  clip-path: polygon(0% 0%, 0% 100%, 17% 100%, 17% 17%, 83% 17%, 83% 83%, 17% 83%, 17% 100%, 100% 100%, 100% 0%)
+  clip-path: polygon(0% 0%, 0% 100%, 20% 100%, 20% 17%, 83% 17%, 83% 83%, 17% 83%, 17% 100%, 100% 100%, 100% 0%)
 }
 
 .video_frames_container .video_frame.vidframe_1#vidframe_3 {
