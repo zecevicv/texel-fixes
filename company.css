@@ -1359,10 +1359,14 @@ div#footer-menu ul li a {
   }
 
   #s1 .text h1 {
-    font-size: 9vw;
+    font-size: 9vw!important;
     font-weight: 400;
     margin: 7vw 0;
     line-height: 1.25;
+  }
+
+  #s1 .text h1 * {
+    font-size: 9vw!important;
   }
 
   #s1 .text p {
