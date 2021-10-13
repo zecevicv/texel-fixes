@@ -185,7 +185,7 @@ div#down {
   transition: 700ms;
   opacity: 1;
   pointer-events: none;
-  padding-left: 10.1vw;
+  padding-left: .45vw;
 }
 
 .locked div#down {
