@@ -1502,10 +1502,13 @@ div#footer-menu ul li a {
     margin-bottom: 88vw;
   }
 
-  #s2 h2,
-  #s2 h2 p {
+  #s2 h2 {
     position: absolute;
     top: 0;
+  }
+
+  #s2 h2,
+  #s2 h2 p {
     font-size: 9vw!important;
   }
 
