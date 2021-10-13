@@ -1422,8 +1422,10 @@ div#footer-menu ul li a {
   top: 0;
 }
 
-#s2 h2 {
+#s2 h2,
+#s2 h2 p {
   color: #2f39ae;
+  font-size: 3.54vw!important;
 }
 
 #s2 div#float_global {
@@ -1494,10 +1496,11 @@ div#footer-menu ul li a {
     margin-bottom: 88vw;
   }
 
-  #s2 h2 {
+  #s2 h2,
+  #s2 h2 p {
     position: absolute;
     top: 0;
-    font-size: 9vw;
+    font-size: 9vw!important;
   }
 
   .video_frames_container .video_frame.vidframe_1 {
