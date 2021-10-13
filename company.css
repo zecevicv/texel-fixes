@@ -276,7 +276,7 @@ div#float_global .swiper-container {
 }
 
 .video_frames_container .video_frame.vidframe_2 div {
-  clip-path: polygon(0% 0%, 0% 100%, 25% 100%, 25% 25%, 83% 25%, 83% 79%, 17% 79%, 17% 100%, 100% 100%, 100% 0%)
+  clip-path: polygon(0% 0%, 0% 100%, 25% 100%, 25% 21%, 83% 21%, 83% 79%, 17% 79%, 17% 100%, 100% 100%, 100% 0%)
 }
 
 .columns {
