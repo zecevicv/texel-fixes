@@ -1336,6 +1336,7 @@ div#footer-menu ul li a {
 @media (max-width: 1023.98px) {
   #s1.section {
     height: 207vw;
+    padding-right: 0;
   }
 
   #s1.section div#float_global {
