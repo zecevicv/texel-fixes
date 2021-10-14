@@ -180,6 +180,16 @@ div#container .column#right {
   opacity: 1
 }
 
+@media (max-width: 1023.98px) {
+  .floating .float-menu li#black-logo {
+    position: fixed;
+    top: 1%;
+    right: 2%;
+    width: 8vw;
+    z-index: 9999999999;
+  }
+}
+
 div#down {
   position: absolute;
   top: 37vw!important;
