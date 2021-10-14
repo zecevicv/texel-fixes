@@ -73,6 +73,12 @@ div#container .column#right {
   z-index: 150
 }
 
+@media (max-width: 1023.98px) {
+  div#container {
+    overflow: hidden;
+  }
+}
+
 /* #Page's Main Section
 ================================================== */
 #middle .section {
