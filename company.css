@@ -1383,6 +1383,7 @@ div#footer-menu ul li a {
     top: 125vw;
     left: 50%;
     transform: translateX(-50%);
+    opacity: 1!important;
   }
 
   #s1 div#main_text p {
