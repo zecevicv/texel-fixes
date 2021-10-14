@@ -183,7 +183,7 @@ div#down {
   justify-content: center;
   height: 1vw;
   transition: 700ms;
-  opacity: 1;
+  opacity: 1!important;
   pointer-events: none;
   padding-left: .45vw;
 }
