@@ -116,6 +116,10 @@ div#container .column#right {
     flex-direction: column;
     justify-content: space-between
   }
+
+  .button-section {
+    margin: 13.7vw 0 13.125vw 0;
+  }
 }
 
 /* #Main Menu
