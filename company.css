@@ -1149,7 +1149,7 @@ div#footer-menu ul li a {
   }
 
   div#down {
-    top: 190vw;
+    top: 190vw!important;
     padding: 0;
   }
 
