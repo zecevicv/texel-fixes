@@ -903,6 +903,10 @@ form .submit button {
   .popup li.black-logo.home {
     display: none
   }
+  
+  .popup .float-menu li {
+    display: none;
+  }
 }
 
 ul.footer-social-menu,
