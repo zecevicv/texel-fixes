@@ -1046,7 +1046,7 @@ div#footer-menu ul li {
 
 @media (max-width: 1024px) {
   div#footer-menu ul li {
-    padding: 0 1vw
+    padding: 0 1vw!important;
   }
 }
 
