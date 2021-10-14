@@ -77,6 +77,10 @@ div#container .column#right {
   div#container {
     overflow: hidden;
   }
+
+  div#container .column#right {
+    width: 0;
+  }
 }
 
 /* #Page's Main Section
