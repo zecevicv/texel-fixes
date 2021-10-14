@@ -181,7 +181,7 @@ div#container .column#right {
 }
 
 @media (max-width: 1023.98px) {
-  .floating .float-menu li#black-logo {
+  .float-menu li#black-logo {
     position: fixed;
     top: 1%;
     right: 2%;
