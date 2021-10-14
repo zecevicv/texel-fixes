@@ -103,7 +103,7 @@ div#container .column#right {
 .button-section {
   width: 100%;
   text-align: center; 
-  margin: 7.8vw 0 0 0;
+  margin: 5.7vw 0 0 0;
 }
 
 #middle .section {
@@ -1592,6 +1592,7 @@ div#footer-menu ul li a {
 .section.team {
   display: flex;
   justify-content: center;
+  height: 100vw;
 }
 
 .section.team .member {
