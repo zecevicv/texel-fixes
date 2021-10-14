@@ -808,7 +808,7 @@ form .submit button {
 
 @media (max-width: 1024px) {
   .popup .float-menu {
-    right: 4vw;
+    right: 9vw;
     top: 4vw
   }
 }
