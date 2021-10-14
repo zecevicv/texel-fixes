@@ -100,6 +100,15 @@ div#container .column#right {
   flex-direction: column
 }
 
+.button-section {
+  width: 100%;
+  text-align: center; 
+}
+
+#middle .section {
+  flex-wrap: wrap;
+}
+
 @media (max-width: 1024px) {
   #middle .section#s4 {
     display: flex;
