@@ -1380,7 +1380,7 @@ div#footer-menu ul li a {
   #s1 div#main_text {
     width: 90%;
     margin: 0 auto;
-    clip-path: unset;
+    clip-path: unset!important;
     top: 125vw;
     left: 50%!important;
     transform: translateX(-50%);
